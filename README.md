@@ -15,5 +15,6 @@ This repository contains weekly directories for the machine learning zoomcamp pr
 - `week-08/` - Week 8 materials and assignments
 - `week-09/` - Week 9 materials and assignments
 - `week-10/` - Week 10 materials and assignments
+- `Capstone/` Project/' - Final Project
 
 Each weekly directory is currently empty and ready for course materials, assignments, and projects. 
